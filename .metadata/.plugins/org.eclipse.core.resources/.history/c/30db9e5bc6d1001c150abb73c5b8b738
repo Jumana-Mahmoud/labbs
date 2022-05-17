@@ -1,0 +1,5 @@
+package com.jumana.microservice;
+
+public class LimitsConfigurationController {
+
+}

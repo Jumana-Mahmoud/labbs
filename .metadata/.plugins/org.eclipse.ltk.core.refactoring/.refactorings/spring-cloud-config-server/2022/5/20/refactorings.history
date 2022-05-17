@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;spring-cloud-config-server/git-localconfig-repo/ limits-service-properties&apos; to &apos; limits-service.properties&apos;" description="Rename resource &apos; limits-service-properties&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="git-localconfig-repo/ limits-service-properties" name=" limits-service.properties" stamp="1652342497815" updateReferences="true"/>
+</session>
